@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DemoQaWebsite">
+
+<suite-files>
+	<suite-file path="resources/testsuite/hello.xml" />
+</suite-files>	
+	
+	
+	
+<suite-files>
+	<suite-file path="resources/testsuite/validatebycolorfilter.xml" />
+</suite-files>	
+
+<suite-files>
+	<suite-file path="resources/testsuite/validatebycolorandsorttest.xml" />
+</suite-files>	
+	</suite>
+	
+	
